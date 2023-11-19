@@ -6,6 +6,7 @@ Write a Python Script to:
 - Resize the image from 192x192 to 128x128
 - Save the image to a new folder in .jpeg format
 
+
 **Module 2: Process Text Files with Python Dictionaries and Upload to Running Web Service**\
 Write a Python Script to:
 - Use the Python OS module to process a directory of text files 
@@ -13,8 +14,17 @@ Write a Python Script to:
 - Use the Python requests module to upload content to a running Web service
 - Understand basic operations for Python requests like GET and POST methods 
 
+
 **Module 3: Automatically Generate a PDF and send it by Email**\
 Write a Python Script to:
 - Write a script that summarizes and processes sales data into different categories
 - Generate a PDF using Python
 - Automatically send a PDF by email 
+
+
+**Module 4: Automate updating catalog information**\
+Write a Python Script to:
+- Write a script that summarizes and processes sales data into different categories 
+- Generate a PDF using Python
+- Automatically send a PDF by email 
+- Write a script to check the health status of the system 
